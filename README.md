@@ -1,55 +1,15 @@
-```text
-$ ssh gushuchun@github — guest login
-
-$ whoami
-gushuchun
-
-$ grep role ~/.profile
-Python Backend & AI Systems Architect
-Open for Freelance / Contract / Consulting 🚀
-
-$ neofetch
-           .___      OS:    AI & Backend Systems
-         /     \     Shell: FastAPI | Flask | Celery | Airflow
-        | () () |    DB:    Postgres (pgvector) | Redis | MySQL | HBase
-         \  ^  /     AI:    LangGraph | RAG | Mem0 | Cross-Encoder
-          |||||      Infra: Docker | Playwright | Scrapy | AWS
-          |||||      Lang:  Python | SQL | Shell | (enough Go to be dangerous)
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1800&pause=400&color=00FF00&width=950&height=360&multiline=true&lines=\$+ssh+gushuchun@github;%3E+Python+Backend+%26+AI+Systems+Engineer;%3E+Open+for+Freelance+%7C+Contract+%7C+Consulting;%3E+Backend%3A+FastAPI+%7C+Flask+%7C+Django+%7C+SQLAlchemy+%7C+RESTful+API;%3E+Async%3A+Celery+%7C+Airflow+%7C+Idempotent+Design+%7C+Eventual+Consistency;%3E+Database%3A+PostgreSQL(pgvector)+%7C+MySQL+%7C+Redis+%7C+HBase+%7C+SQL+Optimization;%3E+AI%2FLLM%3A+LangGraph+%7C+LangChain+%7C+Multi-Agent+%7C+MCP+Protocol;%3E+RAG%3A+RAG-Fusion+%7C+Hybrid+Recall+%7C+Cross-Encoder+%7C+Context+Window+Mgmt;%3E+Memory%3A+Redis+LRU+%7C+pgvector+Time-Decay+%7C+Mem0+%7C+Multi-Tier+Arch;%3E+E-Commerce%3A+Amazon+SP-API+%7C+Walmart+EDI+%7C+Advertising+Campaigns;%3E+Crawler%3A+Playwright+%7C+Scrapy+Cluster+%7C+Anti-Scraping+%7C+Proxy+Pool;%3E+DevOps%3A+Docker+%7C+Nginx+%7C+Linux+%7C+CI%2FCD+%7C+Fabric%2FInvoke;\$+logout" />
+</p>
 
 ---
 
-```text
-$ ls -la ~/projects/
+<div align="center">
 
-drwxr-xr-x  raglan/        Protocol-driven RAG retrieval engine — 0 deps, 6-stage pipeline
-drwxr-xr-x  enterprise/    Multi-agent memory systems (Redis LRU + pgvector + Mem0)
-drwxr-xr-x  ecommerce/     Amazon SP-API / Walmart EDI / AS2 integration
-drwxr-xr-x  crawlers/      Playwright + Scrapy cluster, 14+ sites, >95% data completeness
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gushuchun/Gushuchun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gushuchun/Gushuchun/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Gushuchun/Gushuchun/output/github-snake.svg" />
+</picture>
 
----
-
-```text
-$ cat ~/services.txt
-
-  AI / LLM       Custom Multi-Agent workflows, RAG knowledge bases, Memory systems
-  Backend        High-concurrency APIs, Microservices, ERP integration (Amazon/Walmart)
-  Data           Industrial-grade crawlers, anti-scraping bypass, Playwright automation
-  Optimization   SQL tuning, Redis caching, Celery/Airflow async task pipelines
-
-  Billing:  Fixed-price Projects | Monthly Retainer | Hourly Consulting
-```
-
----
-
-```text
-$ cat ~/contact.txt
-
-  Email:   gushuchun123@gmail.com
-```
-
-```text
-$ logout
-Connection to github closed.
-```
+</div>
